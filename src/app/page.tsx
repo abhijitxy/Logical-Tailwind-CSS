@@ -54,12 +54,12 @@ export default function Home() {
                 ]}
               />
               <a
-                href="https://github.com/Fawwaz-2009/to-logical-tailwind"
+                href="https://github.com/Abhijit20112003/Logical-Tailwind-CSS"
                 className="inline-flex items-center font-medium text-white hover:underline"
                 target={"_blank"}
                 rel="noreferrer"
               >
-                See in Github
+                Star in Github
               </a>
             </div>
           </div>
