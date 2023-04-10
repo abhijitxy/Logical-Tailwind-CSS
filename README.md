@@ -2,7 +2,7 @@
 
 An online tool to convert Tailwind CSS classes in your components to their logical equivalents for RTL (right-to-left) support and, optionally, full logical properties support using the [Logical Tailwind plugin](https://github.com/stevecochrane/tailwindcss-logical).
 
-Visit the tool: [To Logical Tailwind](https://to-logical-tailwind.vercel.app/)
+Visit the tool: [To Logical Tailwind](https://logical-tailwind-css.vercel.app/)
 
 ## Introduction
 
