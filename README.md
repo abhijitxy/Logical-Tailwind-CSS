@@ -22,7 +22,7 @@ To run the To Logical Tailwind tool locally, follow these steps:
 - Clone the repository
 
 ```bash 
-git clone https://github.com/your-username/to-logical-tailwind.git
+git clone git@github.com:Abhijit20112003/Logical-Tailwind-CSS.git
 ```
 - Navigate to the project directory
 
