@@ -30,7 +30,7 @@ export default function Home() {
             <h2 className="text-2xl font-bold leading-7 text-blue-50 sm:truncate sm:text-3xl sm:tracking-tight">
               To Logical Tailwind CSS
             </h2>
-            <div className="flex items-end gap-8 mie-4 mbs-8 sm:mbs-0">
+            <div className="flex items-end gap-8 mbs-8 mie-4 sm:mbs-0">
               <Select
                 label="Output Format"
                 name="outputFormat"
