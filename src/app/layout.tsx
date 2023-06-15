@@ -3,7 +3,7 @@ import "./globals.css";
 export const metadata = {
   title: "To Logical Tailwind CSS",
   description: "convert tailwind css to logical tailwind css",
-  creator: "Fawwaz Alharbi",
+  creator: "Abhijit Roy",
 };
 export default function RootLayout({
   children,
